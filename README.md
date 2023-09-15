@@ -1,4 +1,6 @@
 Heyoo!!! Me chamo Jefferson.
+Atualmente estou trabalhando com desenvolvimento mobile, especificamente utilizando Dart e Flutter.
+
 
 <!---
 JeffMoreiraR/JeffMoreiraR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
