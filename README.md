@@ -1,5 +1,5 @@
 Heyoo!!! Me chamo Jefferson.
-Atualmente estou trabalhando com desenvolvimento mobile, especificamente utilizando Dart e Flutter.
+Atualmente estou no cargo de Desenvolvedor Full Stack, utilizando Flutter e Java Spring Boot.
 
 
 <!---
